@@ -16,7 +16,7 @@
                 <li><a href="book.php">Book Appointment</a></li>
             </ul>
             <ul class="nav navbar-nav navbar-right rightNav">
-                <a class="btn btn-primary" href="tel:1-407-739-8527" style="padding:6px;">
+                <a class="btn btn-default" href="tel:1-407-739-8527" style="padding:6px;">
                     Click to Call <span class="glyphicon glyphicon-earphone" style="padding-left:10px; padding-right:10px;"></span>407-739-8527
                 </a>
             </ul>
